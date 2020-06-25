@@ -57,7 +57,7 @@ Developing e-commerce applications (zend framework, mysql, restfull api, lucene)
 * Providing advices for better performance and application optimization.
 * Did lot of coding, designing reviews and refactoring activities. 
 
-#### Remote work / Freelance ▪ Team Leader / Senior Software Engineer ▪ 11/2017 – 10/2018
+#### QArea/Vidax Team Leader / Senior Software Engineer ▪ 11/2017 – 10/2018
 * Design and developed scalable, distributed architectures for advertising management system.
 * Re-factoring (optimization) the code or query during development phase
 * Team management – handling a team of 3 developers and 1 devops. Delegating tasks to team members, leading and motivate team, resolve technical problems of team members whenever they struck.  
@@ -66,7 +66,7 @@ Developing e-commerce applications (zend framework, mysql, restfull api, lucene)
 * Research in integrating Clickhouse into the Big Data analytics infrastructure.
 * Monitoring the database optimization, performance, integrity and recovery for web bases applications.
 
-#### Remote work / Senior Software Engineer ▪ 10/2018 – 03/2020
+#### Remote work / Senior Software Engineer ▪ 10/2018 – 06/2020
 * Worked as Senior Software Engineer  on tasks on design perfomant architecture and code new features or enhancements for existing web applications 
 * Provide expert level abilities in coding, database design, development
 * Big experience of working with different open-source technologies, agile and scrum methodology
